@@ -1,4 +1,4 @@
----
+7825271---
 manufacturer:
     - huawei
 
